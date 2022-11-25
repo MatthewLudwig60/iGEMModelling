@@ -1,4 +1,4 @@
-# iGEM Modelling
+# Exeter iGEM 2022 Modelling
 Repository containing various iterations of the Spi-thon model designed to model spider silk protein expression in E. coli with differential gene expression of various helper proteins. This model is designed identify the effect on translation rate of alanine-rich spider silk MaSp proteins of co-expression of 3 key genes: alanine import channel protein CycA; alanine tRNA and the enzyme catalysing the binding of alanine to its corresponding tRNA alanyl-tRNA synthetase. The model identified that MaSp production is elevated by alanine tRNA overexpression, but is maximised by co-expression of all 3 genes. 
 
 The various iterations of this model seek to identify the difference in MaSp production rate over time in E. coli with co-expression of 1 or more of the aforementioned genes. Later versions of the model account for protein and mRNA degradation, as well as tRNA degradation triggered by amino acid starvation. The model breaks down the relevant biological process into 4 steps: 
